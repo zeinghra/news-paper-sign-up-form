@@ -193,7 +193,7 @@ form.invalid input[type="email"] {
 }
 
 .success .hero-icon {
-  content: url('/assets/images/icon-success.svg');
+  content: url('../assets/images/icon-success.svg');
 }
 
 .success__h2 {
