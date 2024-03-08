@@ -188,10 +188,6 @@ form.invalid input[type="email"] {
   margin-top: 15vh;
 }
 
-.success .hero-icon {
-  content: url('../assets/images/icon-success.svg');
-}
-
 .success__h2 {
   font-size: var(--fs-5);
   font-weight: var(--fw-bold);
