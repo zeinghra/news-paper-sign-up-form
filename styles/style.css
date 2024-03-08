@@ -152,6 +152,7 @@ form input[type="email"] {
   color: var(--clr-neutral-4);
   border-radius: 0.5rem;
   border: none;
+  cursor: pointer;
 }
 
 .btn:hover,
