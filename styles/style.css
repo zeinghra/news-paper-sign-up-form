@@ -152,13 +152,14 @@ form input[type="email"] {
   color: var(--clr-neutral-4);
   border-radius: 0.5rem;
   border: none;
-  cursor: pointer;
+
 }
 
 .btn:hover,
 .btn:focus {
   background: var(--btn-gradient);
   box-shadow: 0 10px 10px hsl(18,100%,57%, .2), 0 20px 15px hsl(18,100%,57%, .2);
+    cursor: pointer;
 }
 
 .message { 
